@@ -1,4 +1,2 @@
-# Flash
-Android Candidate Test for Flash
 # FlashGO
-# FlashGO
+Android Candidate Test for FlashGO
