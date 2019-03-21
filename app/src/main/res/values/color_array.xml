@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="loader_colors">
+        <item>@color/loading_color_1</item>
+        <item>@color/loading_color_2</item>
+        <item>@color/loading_color_3</item>
+        <item>@color/loading_color_4</item>
+    </array>
+</resources>

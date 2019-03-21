@@ -1,0 +1,22 @@
+<resources>
+
+    <style name="AppTheme" parent="BaseTheme"/>
+
+    <style name="BaseTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item> 
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item> 
+        <item name="colorControlHighlight">@color/colorAccentLight</item> 
+        <item name="colorAccent">@color/colorAccent</item>
+        <!-- color for widget theming, eg EditText. Doesn't effect ActionBar. -->
+        <item name="colorControlNormal">@color/colorPrimary</item>
+    </style>
+
+    <!--<style name="DialogStyle" parent="@style/Theme.AppCompat.Light.Dialog">-->
+        <!--<item name="android:windowSoftInputMode">adjustResize|stateHidden</item>-->
+        <!--<item name="colorPrimary">@color/colorPrimary</item> -->
+        <!--<item name="colorPrimaryDark">@color/colorPrimaryDark</item> -->
+        <!--<item name="colorControlHighlight">@color/colorAccentLight</item> -->
+        <!--<item name="colorAccent">@color/colorAccent</item>-->
+    <!--</style>-->
+
+</resources>

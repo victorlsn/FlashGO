@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#4A4A4A</color>
+    <color name="colorAccentLight">#000000</color>
+    <color name="flash_orange">#FF732A</color>
+    <color name="info_window_background_orange">#CC6600</color>
+
+    <color name="loading_color_1">#C45519</color>
+    <color name="loading_color_2">#C4AA19</color>
+    <color name="loading_color_3">#1980C4</color>
+    <color name="loading_color_4">#9119C4</color>
+</resources>
